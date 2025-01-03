@@ -14,7 +14,7 @@ void printData(const T_1& dataStructure){
 
 template <typename T_2>
 void printData_WithAddress(const T_2& dataStructure){
-     for(const auto& element : dataStructure){
+    for(const auto& element : dataStructure){
         std::cout<< "value: " << element << ", address: " << &element << std::endl;
     }
 
