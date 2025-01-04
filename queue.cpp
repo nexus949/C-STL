@@ -9,6 +9,8 @@ void printQueue(std::queue<int>& q){
         std::cout<< "front: " << el_front << ", back: "<< el_back << std::endl;
         q.pop();
     }
+
+    std::cout<<std::endl;
 }
 
 int main(){
