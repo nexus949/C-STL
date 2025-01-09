@@ -16,6 +16,8 @@ typedef struct vertex{
 //custom compareVertex functor to compare 2 vertex
 typedef struct compareVertex{
     bool operator()(vertex& vertex1, vertex& vertex2){
+
+        //return true if vertex2 is considered of higher priority than vertex1
         return (vertex1.v1 + vertex1.v2 < vertex2.v1 + vertex2.v2);
     }
 }compareVertex;
@@ -38,6 +40,7 @@ int main(){
     vertex v2(2, 3);
 
     //need to define a custom comparator to compare to vertex objects.
+    //priority Queue need to compare them in order to store them so for custom data types we need to define a custom comparator
     v_queue.push(v1);
     v_queue.push(v2);
 
