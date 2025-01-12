@@ -1,6 +1,6 @@
 # C++ STL Implemented
 
-### This project showcases a comprehensive implementation of various C++ Standard Template Library (STL) containers and container adaptors.
+### This project showcases a comprehensive implementation of various C++ Standard Template Library (STL) containers and container adaptors. Its sole purpose is for referencing and learning.
 ---
 ### Contents
 - Arrays
