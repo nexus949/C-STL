@@ -12,7 +12,7 @@ typedef struct Vertex{
     
     //overload the equality operator to compare the vertex to ensure unique key entry.
     bool operator==(const Vertex& other) const{
-        return (_v1 == other._v1 && _v2 && other._v2);
+        return (_v1 == other._v1 && _v2 == other._v2);
     }
 }vertex;
 
