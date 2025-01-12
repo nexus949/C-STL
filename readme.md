@@ -32,6 +32,9 @@ Q.  What is C++ STL ?
 Q. Why use C++ STL ?
 A. C++ STL provides a wide range of containers with great implementation for necessary data structures, hence providing optimized performance and safe data handling.
 
+Q. Did I use AI to assist me in code ?
+A. Yes I did use AI and it helped me a lot from finding bugs, fixing errors to explaining concepts. I used [ChatGPT](https://chatgpt.com/){:target="_blank"} and [microsoft Copilot](https://copilot.microsoft.com/){:target="_blank"} .
+
 ---
 #### NOTE :
 ##### The implementation provided is based on my knowledge and understanding of C++ STL. There may be errors or suboptimal code. Feedback and suggestions for improvement are welcome.
@@ -39,9 +42,9 @@ A. C++ STL provides a wide range of containers with great implementation for nec
 ### Credits and References
 
 #### References
-- [cpp reference](https://en.cppreference.com/w/)
-- [cplusplus.com](https://cplusplus.com/)
-- [geekforgeeks](https://www.geeksforgeeks.org/)
+- [cpp reference](https://en.cppreference.com/w/){:target="_blank"}
+- [cplusplus.com](https://cplusplus.com/){:target="_blank"}
+- [geekforgeeks](https://www.geeksforgeeks.org/){:target="_blank"}
  
  #### Credits
-- [Mike Shah on youtube](https://www.youtube.com/@MikeShah) 
+- [Mike Shah on youtube](https://www.youtube.com/@MikeShah){:target="_blank"}
